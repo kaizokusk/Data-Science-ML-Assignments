@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title><h1>Machine Learning and Statistical Data Science Repository</title>
+  <title><h1>Machine Learning and Statistical Data Science Repositor</h1></title>
 </head>
 <body>
  
